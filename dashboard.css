@@ -20,7 +20,7 @@
     left: 0;
     opacity:70%;
     transition:0.4s;
-    display:none;
+    display:visible;
   }
   
   .sidebar h2 {
